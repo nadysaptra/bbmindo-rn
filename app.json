@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "rn-soft-ui-kit-free",
-    "slug": "rn-soft-ui-kit-free",
-    "description": "React Native - Soft UI Kit - Free",
+    "name": "bbmindo",
+    "author": "com.nadylabs",
+    "slug": "bbmindo",
+    "description": "",
     "primaryColor": "#CB0C9F",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,13 +20,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nadylabs.bbmindo"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#CB0C9F"
-      }
+      },
+      "package": "com.nadylabs.bbmindo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
