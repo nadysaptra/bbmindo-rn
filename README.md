@@ -1,4 +1,4 @@
-
+[DEPRECATED]
 # Android Build Instructions
 
 ## 1. Set up Android SDK (First Time Only)
